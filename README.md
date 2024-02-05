@@ -1,7 +1,7 @@
 # reading-notes
 ## Growth Mindset
 
-*Growth mindset* is being able to look at challenges, speed bumps and setbacks, in a light that causes you to be able to push through to a **larger** version of yourself. 
+>*Growth mindset* is being able to look at challenges, speed bumps and setbacks, in a light that causes you to be able to push through to a **larger** version of yourself.< 
 
 Some ways to keep in a growth mindset are
 - Treat yourself with respect, the same way you would treat a friend that is struggling with a challenge.
