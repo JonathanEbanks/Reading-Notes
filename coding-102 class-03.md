@@ -1,4 +1,4 @@
-#Coding 102 
+# Coding 102 
 
 Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes.
 Cloning is creating a copy of an existing Git repository from a particular server.
