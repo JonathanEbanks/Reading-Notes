@@ -1,7 +1,7 @@
 # Coding 102 
 ### Class 03
 
-Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes.
+1 Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes.
 Cloning is creating a copy of an existing Git repository from a particular server.
 Add is the command to track and stage files.
 Commit is the command to take a snapshot of your changed files.
