@@ -7,13 +7,21 @@ Notes for Code Fellows Software Development Courses
 ### Code 102
 
 -[Class 01](https://github.com/JonathanEbanks/class-01.git)
+
 -[Class 02](https://github.com/JonathanEbanks/class-02.git)
+
 -[Class 03](https://github.com/JonathanEbanks/class-03.git)
+
 -[Class 04](https://github.com/JonathanEbanks/class-04.git)
+
 -[Class 05](https://github.com/JonathanEbanks/class-05.git)
+
 -[Class 06](https://github.com/JonathanEbanks/class-06.git)
+
 -[Class 07](https://github.com/JonathanEbanks/class-07.git)
+
 -[Class 08](https://github.com/JonathanEbanks/class-08.git)
+
 
 
 
