@@ -6,6 +6,8 @@ Notes for Code Fellows Software Development Courses
 
 ### Code 102
 
+-[Class 01]
+
 
 
 ## Growth Mindset
