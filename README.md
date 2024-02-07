@@ -4,7 +4,7 @@ Notes for Code Fellows Software Development Courses
 
 ## Contents
 
-### Code 102
+## Code 102
 
 -[Class 01](https://jonathanebanks.github.io/code-102-class-01/)
 
