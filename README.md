@@ -1,6 +1,6 @@
 # Reading Notes
 
-
+Notes for Code Fellows Software Development Courses
 
 ## Growth Mindset
 
