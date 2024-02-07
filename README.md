@@ -2,7 +2,7 @@
 
 Notes for Code Fellows Software Development Courses
 
-## Contents
+# Contents
 
 ## Code 102
 
@@ -22,7 +22,7 @@ Notes for Code Fellows Software Development Courses
 
 -[Class 08](https://jonathanebanks.github.io/code-102-class-08/)
 
-### Code 201
+## Code 201
 
 -[Class 01](https://jonathanebanks.github.io/code-201-class-01/)
 
